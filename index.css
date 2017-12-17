@@ -74,3 +74,7 @@ a:hover:not(.active) {
 .box3{
     margin-top: 150px;
 }
+
+.box0{
+    background-image: url("./pictures/bg.jpg");
+}
